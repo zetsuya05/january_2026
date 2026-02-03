@@ -1,1 +1,76 @@
-
+[
+{
+            "skin_name":"Backup",
+        "name": "Fanny",
+        "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero171-portrait.png/revision/latest?cb=20240605151224",
+        "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fanny_backup.zip",
+        "tag": "Backup"
+                  },
+     {
+       "name": "Fanny",
+       "skin_name": "Galactic Starhawk",
+       "image": "https://github.com/tin0521/January_2026/blob/main/fanny%20legend.jpg?raw=true",
+       "script": "https://github.com/tin0521/January_2026/raw/refs/heads/main/fanny_def_legend.zip",
+       "tag":"Legend"
+       },
+          {"name": "Fanny",
+            "skin_name": "Lifeguard",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest?cb=20220525164706",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_summer.zip",
+            "tag": "Summer"
+          },
+          {"name": "Fanny",
+            "skin_name": "Christmas Carnival",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest?cb=20220525164708",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_christmas.zip",
+            "tag": "Christmas"
+          },
+          {"name": "Fanny",
+            "skin_name": "Mikasa",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest?cb=20240127074733",
+            "script": "https://github.com/tin0521/dec2025/raw/refs/heads/main/fanny_mikasa.zip",
+            "tag": "Attack on Titan"
+          },
+          {"name": "Fanny",
+            "skin_name": "Skylark",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest?cb=20220525164704",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_skylark.zip",
+            "tag": "LuckyBox"
+          },
+          {"name": "Fanny",
+            "skin_name": "Lightborn - Ranger",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest?cb=20220525164707",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_lightborn.zip",
+            "tag": "Lightborn"
+          },
+          {"name": "Fanny",
+            "skin_name": "Blade of Kibou",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest?cb=20220714031230",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_aspirant.zip",
+            "tag": "Aspirants"
+          },
+          {"name": "Fanny",
+            "skin_name": "Heart Afloat",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest?cb=20230212035453",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_heartafloat.zip",
+            "tag": "Valentine"
+          },
+          {"name": "Fanny",
+            "skin_name": "Campus Youth",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest?cb=20220525164702",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_campusyouth.zip",
+            "tag": "Elite"
+          },
+          {"name": "Fanny",
+            "skin_name": "Royal Cavalry",
+            "image": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest?cb=20220525164705",
+            "script": "https://github.com/tin0521/assn/raw/refs/heads/main/fanny_royalcavalry.zip",
+            "tag": "Starlight"
+          },
+          {"name": "Fanny",
+            "skin_name": "P.ACE",
+            "image": "https://github.com/Mexi23/SeptUpdate/raw/refs/heads/main/fanny.png",
+            "script": "https://github.com/tin0521/Sept/raw/refs/heads/main/fanny_pace.zip",
+            "tag": "Anniversary"
+          },
+]
